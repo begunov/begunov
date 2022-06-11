@@ -1,5 +1,7 @@
 ### Hi there 👋
-My Development Map - https://goo.su/kkNhe https://goo.su/EkBwc5
+**My Development Map**
+Learning process - https://goo.su/EkBwc5
+Mental map - https://goo.su/kkNhe
 <!--
 **emtrend/emtrend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
