@@ -1,8 +1,5 @@
 
 ### My Development Map
-Использую популярный курс изучения, следую всем пунктам. <br>
-Повторяю уже изученный материал и много практикуюсь. (© Алёша 11.06.22)
-
 Learning process - https://goo.su/EkBwc5
 <br>
 Mental map - https://goo.su/kkNhe
@@ -19,5 +16,5 @@ Mental map - https://goo.su/kkNhe
 <br><br><br>
 
 ### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emtrend&theme=vue)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emtrend&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=begunov&theme=vue)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begunov&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
