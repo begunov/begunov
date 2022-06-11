@@ -1,5 +1,6 @@
 
 ### My Development Map
+Используя популярный курс изучения, следую всем пунктам, повторяя уже изученный материал и множество практики (© Алёша 11.06.22)
 Learning process - https://goo.su/EkBwc5
 <br>
 Mental map - https://goo.su/kkNhe
